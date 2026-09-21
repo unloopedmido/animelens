@@ -19,7 +19,7 @@ export default class ReadyEvent extends Event<"clientReady"> {
 		const activities = [
 			{ name: `/help | anime & manga`, type: ActivityType.Watching },
 			{ name: `anime data for you`, type: ActivityType.Playing },
-			{ name: `animelens.thelooped.tech`, type: ActivityType.Watching },
+			{ name: `animelens.nonlooped.xyz`, type: ActivityType.Watching },
 		];
 		let current = 0;
 		const setNextActivity = () => {

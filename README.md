@@ -5,7 +5,7 @@
 [![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)](https://bun.sh/)
 [![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=white)](https://discord.js.org/)
 
-<a href="https://animelens.thelooped.tech/"><img src=".github/BANNER.png" alt="AnimeLens Banner" width="600"></a>
+<a href="https://animelens.nonlooped.xyz/"><img src=".github/BANNER.png" alt="AnimeLens Banner" width="600"></a>
 
 A powerful Discord bot for anime and manga enthusiasts! Get instant information about your favorite anime, manga, characters, and more.
 
@@ -13,7 +13,7 @@ A powerful Discord bot for anime and manga enthusiasts! Get instant information 
 
 ## 🌐 Website
 
-➡️ https://animelens.thelooped.tech/
+➡️ https://animelens.nonlooped.xyz/
 
 Currently, it provides:
 

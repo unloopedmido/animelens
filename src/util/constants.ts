@@ -18,7 +18,7 @@ export const apis = {
 	topgg: "https://top.gg/api",
 };
 
-export const WEBSITE_URL = "https://animelens.thelooped.tech";
+export const WEBSITE_URL = "https://animelens.nonlooped.xyz";
 export const INVITE_URL = `https://discord.com/oauth2/authorize?client_id=${Bun.env.DISCORD_CLIENT_ID || "1386365602167390289"}`;
 export const VOTE_URLS = {
 	topgg: "https://top.gg/bot/1386365602167390289/vote",
